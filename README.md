@@ -16,8 +16,8 @@ Ada's collective wisdom gathered:
 - [Advice for Brainstorming](brainstorming.md)
 
 Class-specific schedules for important deadlines and PM assignments
-- [Class A](a-class-details.md)
-- [Class B](b-class-details.md)
+- [Ampers](ampers-class-details.md)
+- [Octos](octos-class-details.md)
 
 Required Pre-Capstone Material:
 - [Capstone Concept Requirements](concept.md)
