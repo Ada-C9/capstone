@@ -29,8 +29,8 @@ You will be required to present your weekly progress to your capstone group.
 - Hannah Cameron	
 - Luxi Lindsey
 
-### React Native + Firebase - Dan
-- Brittany Jones	
+### React Native + (some) Firebase - Dan
+- Ana Lisa Sutherland
 - Dikla Rikovitch	
 - Jamila Cornick	
 	
@@ -43,7 +43,6 @@ You will be required to present your weekly progress to your capstone group.
 ### React / React Native - Charles
 - Zheng Cao	
 - Maria Velez	
-- Ana Lisa Sutherland	
 - Kirsten and Leti	
 	
 ### Java + Spring - Chris
@@ -55,7 +54,8 @@ You will be required to present your weekly progress to your capstone group.
 ### Java + Android - Dee
 - Phoebe Manning	
 - Wenjie Fang	
-- Aruna Thungathurthi	
+- Aruna Thungathurthi
+- Brittany Jones
 	
 ### iOS + Swift - Dan
 - Brandy Austin	
