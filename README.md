@@ -47,7 +47,7 @@ Refer to your class's schedule for due dates
 - Schedule and attend a 30 minute one-on-one with your PM
 
 #### Daily:
-- Complete the [daily stand up form]() __everyday Monday through Friday before 12pm, and once over the weekend__
+- Complete the [daily stand up form](https://docs.google.com/forms/d/1Dc-4Y0-9_J5h0AM03NBn-dHSlsgcIXbAWNSWLdI93w4) __everyday Monday through Friday before 12pm, and once over the weekend__
 
 ## Final Delivery
 The Capstone Project consists of the following components:
